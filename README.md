@@ -21,6 +21,48 @@ Welcome to my GitHub profile! I’m a passionate developer, data scientist, and 
 
 ---
 
+## 📊 GitHub Analytics  
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=seriamedard&show_icons=true&theme=radical" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriamedard&layout=compact&theme=radical" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies I Use  
+
+<table>
+<tr>
+<td align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
+</td>
+<td align="center">
+  <b>Frameworks</b><br>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django" />  
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular" />  
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+</td>
+<td align="center">
+  <b>Tools</b><br>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />  
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />  
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" />
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Projects  
 
 ### [📚 American Sign Language Recognition](https://github.com/seriamedard/american_sign_language_recognition)  
@@ -31,35 +73,6 @@ Welcome to my GitHub profile! I’m a passionate developer, data scientist, and 
 
 ### [🏨 ERP-Compatible Hotel Management App](https://github.com/seriamedard/MiramarHotel)  
 - 🛠️ Developed a scalable hotel management system with Angular, Django, and PostgreSQL.  
-
----
-
-## 📊 GitHub Analytics  
-
-![Medard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seriamedard&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriamedard&layout=compact&theme=radical)  
-
----
-
-## 🛠️ Technologies I Use  
-
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)  
-  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)  
-  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)  
-
-- **Frameworks**:  
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-
-- **Tools**:  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
 
 ---
 
