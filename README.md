@@ -46,18 +46,21 @@ Welcome to my GitHub profile! I’m a passionate developer, data scientist, and 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />  
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat" alt="R" />
 </td>
 <td align="center">
   <b>Frameworks</b><br>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django" />  
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular" />  
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS" />
 </td>
 <td align="center">
   <b>Tools</b><br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />  
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />  
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat" alt="Google Cloud" />
 </td>
 </tr>
 </table>
