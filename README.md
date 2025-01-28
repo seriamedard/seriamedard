@@ -1,17 +1,9 @@
-# <h1 align="center">👋 Hi, I'm <span style="display:inline-block; animation: wave 2s infinite;">Medard Seria</span>!</h1>
+# <h1 align="center">👋 Hi, I'm Medard Seria!</h1>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving-hand">
+</p>
+
 
 
 Welcome to my GitHub profile! I’m a passionate developer, data scientist, and founder of [SommaSoft](https://www.sommasoft.com) — a cutting-edge development agency delivering innovative digital solutions. My journey is fueled by curiosity and a drive to solve real-world problems through technology and analytics.  
