@@ -1,9 +1,6 @@
-# <h1 align="center">👋 Hi, I'm Medard Seria!</h1>
-
-<p align="center">
+# <h1 align="center"><p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving-hand">
-</p>
-
+</p> Hi, I'm Medard Seria!</h1>
 
 
 Welcome to my GitHub profile! I’m a passionate developer, data scientist, and founder of [SommaSoft](https://www.sommasoft.com) — a cutting-edge development agency delivering innovative digital solutions. My journey is fueled by curiosity and a drive to solve real-world problems through technology and analytics.  
