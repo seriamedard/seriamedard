@@ -52,8 +52,8 @@ Welcome to my GitHub profile! I’m a passionate developer, data scientist, and 
   <b>Frameworks</b><br>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django" />  
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular" />  
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow" />
 </td>
 <td align="center">
   <b>Tools</b><br>
